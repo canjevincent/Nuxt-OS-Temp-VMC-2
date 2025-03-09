@@ -1,3 +1,9 @@
+# Nuxt Open Source Template 01
+
+A clean and minimal single landing page built with Nuxt.js, designed to be easily customizable and shared as an open-source template for developers. Perfect for quick project setups or as a starting point for creating modern, responsive landing pages. By VMC.
+
+![Alt Text](https://github.com/canjevincent/Nuxt-OS-Temp-VMC-2/blob/master/nuxt_os_temp_2.png)
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
