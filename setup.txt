@@ -1,0 +1,13 @@
+# Run "bun x nuxi@latest init <project-name>"
+  ✔ Which package manager would you like to use? Bun
+
+# Install typescript as dependency
+  bun add -D typescript
+
+# Install tailwind
+  bun install tailwindcss @tailwindcss/vite
+  # Then follow the full documentation
+  https://tailwindcss.com/docs/installation/framework-guides/nuxt
+
+# Add Nuxt Icons
+  bun x nuxi module add icon
