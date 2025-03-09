@@ -1,4 +1,4 @@
-# Nuxt Open Source Template 01
+# Nuxt Open Source Template 02
 
 A clean and minimal single landing page built with Nuxt.js, designed to be easily customizable and shared as an open-source template for developers. Perfect for quick project setups or as a starting point for creating modern, responsive landing pages. By VMC.
 
